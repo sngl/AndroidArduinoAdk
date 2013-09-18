@@ -1,6 +1,6 @@
 Description:
 
-The class ArduinoAdk manages all the stuff to create the connection with the usb accessory. 
+The class ArduinoAdk manages all the stuff to create the connection with the usb accessory on your Android application. 
 You only have to use ArduinoAdk.Connect() to open the accessory.
 ArduinoAdk.write(int) to send a byte to the accessory. 
 
